@@ -1,0 +1,13 @@
+const STORAGE_KEY="@local-data";
+const STORAGE_USER_KEY="@user-data";
+const STORAGE_SCHEDULE_KEY="@schedule-product";
+const STORAGE_CART_KEY = "@user-cart-data";
+const STORAGE_CART_CHECKOUT_KEY = "@user-cart-checkout-data";
+const STORAGE_USER_DETAILS_KEY = "@user-details-data";
+const STORAGE_ORDER_KEY = "@user-order-details-data";
+const STORAGE_QUARRY_KEY = "@user-quarries-data";
+const STORAGE_TRANSACTION_KEY = "@user-transaction-data";
+const STORAGE_DRIVER_DISPATCH_KEY = "@user-driver-dispatch-data";
+const CURRENCY = {"sign": "₦", "code": "NGN",'name':'Naira'};
+const kGoogleApiKey="";
+const PAY_STACK_PUBLIC_KEY="pk_test_0a47a9455f6ba6255f5eab77005a9995e5dcd857";
